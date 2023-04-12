@@ -1,0 +1,1 @@
+Hello! This is blank-workspace. Before developing your own workspace, please save this workspace under a new name, and then associate this exercise with that new workspace. Then continue to develop your own workspace under that new name :)
