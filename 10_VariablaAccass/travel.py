@@ -1,6 +1,7 @@
 # This function will print a hardcoded count of how many locations we have.
+favorite_locations = "Paris, Norway, Iceland"
 def print_count_locations():
-  favorite_locations = "Paris, Norway, Iceland"
+  #favorite_locations = "Paris, Norway, Iceland"
   print("There are 3 locations")
 
 # This function will print the favorite locations
